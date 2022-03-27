@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c58042e.css",
+    "main.js": "/static/js/main.557015e3.js",
+    "static/js/787.bc7d429a.chunk.js": "/static/js/787.bc7d429a.chunk.js",
+    "static/media/video_2021-12-17_09-30-09 (online-video-cutter.com).mp4": "/static/media/video_2021-12-17_09-30-09 (online-video-cutter.com).722e473e942a7068df98.mp4",
+    "static/media/progect_2.png": "/static/media/progect_2.69aeafd437473ea57b4d.png",
+    "static/media/progect_1.png": "/static/media/progect_1.c5a7003fabfcc06028cc.png",
+    "static/media/GitHub.jpg": "/static/media/GitHub.a80c764de36870df2e4e.jpg",
+    "static/media/sertificate.png": "/static/media/sertificate.d4fb762e48ca417237c5.png",
+    "static/media/sertificate2.png": "/static/media/sertificate2.dc7fa6e008425b7704cf.png",
+    "static/media/my_photo2.jpg": "/static/media/my_photo2.f49ca4ecebc9e75f4f74.jpg",
+    "static/media/2GADRz4E6CxENr7vnYcS.png": "/static/media/2GADRz4E6CxENr7vnYcS.3542bac6c733d446a57e.png",
+    "static/media/react.png": "/static/media/react.07ab14590fea3bf0759b.png",
+    "static/media/logo-it-academy.png": "/static/media/logo-it-academy.a7fbcb643bdf0dfeb28d.png",
+    "static/media/keyboard-right-arrow-button-1_icon-icons.com_72690.svg": "/static/media/keyboard-right-arrow-button-1_icon-icons.com_72690.f24eef1401f1b879fa6c095aedee13b5.svg",
+    "index.html": "/index.html",
+    "main.6c58042e.css.map": "/static/css/main.6c58042e.css.map",
+    "main.557015e3.js.map": "/static/js/main.557015e3.js.map",
+    "787.bc7d429a.chunk.js.map": "/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c58042e.css",
+    "static/js/main.557015e3.js"
+  ]
+}
